@@ -1,7 +1,3 @@
-Here's the cleaned-up `README.md` file **without emojis**, formatted professionally for your GitHub repository:
-
----
-
 # AI-Powered Sales Trend Analysis API
 
 A Python-based web API that automates product-centric market research by extracting and summarizing sales trends from online articles using the Google Gemini API.
